@@ -1,0 +1,23 @@
+.homepg{
+    height: 550px;
+    padding-top: 200px;
+    padding-left: 75px;
+}
+.quote{
+    width: 50%;
+}
+.yogaquote{
+    font-size: 30px;
+}
+.reegisterbtn{
+    background-color: transparent;
+    border: solid 2px rgb(120, 115, 115);
+    width: 25%;
+    border-radius: 25px;
+    height: 40px;
+    font-size: 20px;
+    box-shadow: 2px 2px rgb(95, 94, 94);
+}
+.reegisterbtn:hover{
+    background: linear-gradient(to right, white, gold);
+}

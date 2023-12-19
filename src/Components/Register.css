@@ -1,0 +1,46 @@
+.Registerpage{
+    height: 750px;
+    padding-top: 75px;
+    padding-left: 230px;
+}
+.registerform{
+    border: solid 2px rgb(120, 115, 115);
+    border-radius: 15px;
+    width: 25%;
+    padding: 25px; 
+    box-shadow: 5px 5px rgb(0, 0, 0);
+}
+.registerform input{
+    margin-bottom: 15px;
+    width: 90%;
+    background-color: transparent;
+    padding-left: 15px;
+    border-radius: 15px;
+    height: 35px;
+}
+.Registerpage h4{
+    font-size: 25px;
+    margin-left: 65px;
+}
+select{
+    padding-left: 15px;
+    width: 95%;
+    background-color: transparent;
+    height: 35px;
+    border-radius: 15px;
+    margin-left: 2px;
+}
+.registerbtn{
+    margin-top: 15px;
+    background-color: transparent;
+    border: solid 2px rgb(120, 115, 115);
+    width: 50%;
+    border-radius: 25px;
+    height: 40px;
+    font-size: 20px;
+    box-shadow: 2px 2px rgb(95, 94, 94);
+    margin-left: 75px;
+}
+.registerbtn:hover{
+    background: linear-gradient(to right, white, gold);
+}
